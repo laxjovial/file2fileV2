@@ -1,0 +1,16 @@
+streamlit
+pandas
+python-docx
+pdf2docx
+pdfplumber
+reportlab
+pypandoc
+openpyxl # For Excel file handling
+dropbox # For Dropbox API
+google-auth # For Google Drive API
+google-auth-oauthlib # For Google Drive API
+google-api-python-client # For Google Drive API
+fastapi # For the backend API
+uvicorn # ASGI server for FastAPI
+python-multipart # For handling form data in FastAPI
+requests # For Streamlit app to call FastAPI
